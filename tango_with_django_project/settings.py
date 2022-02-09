@@ -22,6 +22,8 @@ MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 # pg59
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
+#pg171
+LOGIN_URL = 'rango:login'
 
 
 # Quick-start development settings - unsuitable for production

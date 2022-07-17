@@ -1,2 +1,2 @@
 # tango_with_django_project
-automated marking more like auto-notverycool-mated marking
+2nd Year semester 2 web app assessed exercise using the Django framework, following the Tango With Django book.
